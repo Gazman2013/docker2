@@ -1,27 +1,27 @@
 # docker2
 lwsson two
  docker images
-  545  docker run -it centos:latest /bin/bash
-  546*
-  547  docker run -it centos:latest /bin/bash
-  548  docker run -d -p 80:8580 nginx
-  549  curl localhost:80
-  550  ps -a
-  551  ps
-  552  netstat -antp
-  553  docker run -d -p 80:8085 nginx
-  554  curl localhost:8580
-  555  ps
-  556  docker ps
-  557  docker run 22610d86b041
-  558  docker run -it 22610d86b041
-  559  docker run -it nginx
-  560  clear
-  561  curl localhost:8580
-  562  docker login
-  563  docker images
-  564  docker ps
-  565*
+545  docker run -it centos:latest /bin/bash
+546*
+547  docker run -it centos:latest /bin/bash
+548  docker run -d -p 80:8580 nginx
+549  curl localhost:80
+550  ps -a
+551  ps
+552  netstat -antp
+553  docker run -d -p 80:8085 nginx
+554  curl localhost:8580
+555  ps
+556  docker ps
+557  docker run 22610d86b041
+558  docker run -it 22610d86b041
+559  docker run -it nginx
+560  clear
+561  curl localhost:8580
+562  docker login
+563  docker images
+564  docker ps
+565*
   566  docker --help
   567  docker run -d -p 80:8580 nginx
   568  docker ps
