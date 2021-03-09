@@ -1,12 +1,12 @@
 # docker2
 lwsson two
 1. images
-2.  docker run -it centos:latest /bin/bash
-3.*
+2. docker run -it centos:latest /bin/bash
+3. *
 4.  docker run -it centos:latest /bin/bash
-548  docker run -d -p 80:8580 nginx
-549  curl localhost:80
-550  ps -a
+5. docker run -d -p 80:8580 nginx
+6. curl localhost:80
+7. ps -a
 551  ps
 552  netstat -antp
 553  docker run -d -p 80:8085 nginx
